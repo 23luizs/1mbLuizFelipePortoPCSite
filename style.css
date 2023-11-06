@@ -1,8 +1,11 @@
 p{
-    color:aqua;
+    color:blueviolet;
     text-align:center;
     font-size: 300px;
 }
 h1{
     background-color:burlywood;
+    color:aquamarine;
+    text-align:center;
+    font-size: 120px;
 }
